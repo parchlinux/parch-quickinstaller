@@ -1,6 +1,7 @@
 # ParchLinux Quickstart
 
-**Overview**
+## **Overview**
+
 Parch Quickstart is a user-friendly application designed to simplify the process of installing essential software on a freshly installed ParchLinux system. It provides a curated list of applications across various categories, allowing users to easily discover, install, and manage the software they need.
 
 **Steps**
